@@ -1,0 +1,15 @@
+{
+  "name": "simple-node-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "watch": "node_modules/nodemon/bin/nodemon.js index"
+  },
+  "author": "William Oliveira <william.oliveiras@pm.me>",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "1.19.0"
+  }
+}
